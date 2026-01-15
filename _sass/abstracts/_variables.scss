@@ -1,6 +1,4 @@
-<link rel="preconnect" href="https://cdn.jsdelivr.net" />
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css" />
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css");
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR&display=swap');
 @import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap");
 
 /* sidebar */
@@ -31,6 +29,6 @@ $code-icon-width: 1.75rem !default;
 
 /* fonts */
 
-$font-family-base: 'Pretendard', 'Source Sans Pro', 'Microsoft Yahei', sans-serif !default;
-$font-family-heading: 'Pretendard', Lato, 'Microsoft Yahei', sans-serif !default;
+$font-family-base: 'IBM Plex Sans KR', 'Source Sans Pro', 'Microsoft Yahei', sans-serif !default;
+$font-family-heading: 'IBM Plex Sans KR', Lato, 'Microsoft Yahei', sans-serif !default;
 $code-font-family: 'JetBrains Mono', 'Pretendard', monospace !default;
