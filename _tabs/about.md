@@ -11,7 +11,7 @@ order: 4
       <img alt="tech blog" src="https://img.shields.io/badge/Tech Blog-000000?style=flat&logo=Tistory&logoColor=white&link=https://hyeyun.tistory.com/" style="height : auto; margin-right : 10px;"/>
    </a>
    <a href="https://www.instagram.com/mimemiemeee/" style="text-decoration:none !important;">
-      <img alt="instagram" src="http://img.shields.io/badge/Instagram-FF0069?style=flat&logo=Instagram&link=https://www.instagram.com/mimemiemeee/&logoColor=pink" style="height: auto; margin-left: 10px;"/>
+      <img alt="instagram" src="https://img.shields.io/badge/Instagram-FF0069?style=flat&logo=Instagram&link=https://www.instagram.com/mimemiemeee/&logoColor=pink" style="height: auto; margin-left: 10px;"/>
    </a>
    <a href="https://www.github.com/kimhyeyun/" style="text-decoration:none !important;">
       <img alt="github" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
