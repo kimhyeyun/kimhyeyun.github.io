@@ -1,3 +1,12 @@
+---
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
+---
+
+> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+{: .prompt-tip }
+
 ![header](https://capsule-render.vercel.app/api?type=wave&height=200&fontAlign=60&section=header&text=YUNI&fontSize=70&fontColor=white&color=#bb91e3)
 <h3 align="center"> 🤷‍♀️ My Profile 🤷‍♀️ </h3>
 <div align="center">
